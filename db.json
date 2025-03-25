@@ -1,0 +1,34 @@
+{
+    "characters": [
+      {
+        "id": 1,
+        "name": "Mr. Cute",
+        "image": "https://media.giphy.com/media/wvF9tTPPW0pcQ/giphy.gif?cid=790b7611b8zostt9py99tq4fn4gmcuw2lt4h00steuumzkij&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+        "votes": 0
+      },
+      {
+        "id": 2,
+        "name": "Mx. Monkey",
+        "image": "https://media.giphy.com/media/rgbAtUv07WAW4/giphy.gif?cid=790b76119g0jryss1fyrhssrkhhlcith96z5nehdfqsgcon3&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+        "votes": 0
+      },
+      {
+        "id": 3,
+        "name": "Ms. Zebra",
+        "image": "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmF3OTBmYW5yc3NoNTliMHNsM3phMjhqZXBraXJiemQ4d3E4OXgxeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bHoFqabfGJLpu/giphy.gif",
+        "votes": 0
+      },
+      {
+        "id": 4,
+        "name": "Dr. Lion",
+        "image": "https://media.giphy.com/media/gf6iP1NIcDk7S/giphy.gif?cid=790b7611xldegyj6rqgbe552flszfewedk9fgg7hagp1cuyg&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+        "votes": 0
+      },
+      {
+        "id": 5,
+        "name": "Mme. Panda",
+        "image": "https://media.giphy.com/media/Qv4kwtOyX9wfgW4FO2/giphy.gif?cid=790b7611mh935q6gdformf7mo1lft7ivbme2nvnmzbev4uat&ep=v1_gifs_search&rid=giphy.gif&ct=g",
+        "votes": 0
+      }
+    ]
+  }
