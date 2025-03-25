@@ -39,6 +39,5 @@ document.addEventListener("DOMContentLoaded", () => {
         currentCharacter.votes += votesToAdd;
         voteCountElement.textContent = currentCharacter.votes;
         votesInput.value = "";
-
         });
     });
